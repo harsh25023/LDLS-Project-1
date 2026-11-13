@@ -1,0 +1,13 @@
+
+# GGUF model files
+*.gguf
+*.bin
+
+# llama.cpp build artifacts
+third_party/llama.cpp/build/
+profiler/build/
+
+# Python environments
+.venv/
+__pycache__/
+*.pyc
